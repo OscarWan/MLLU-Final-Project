@@ -6,10 +6,10 @@
     NETID=mw3706
     source activate /scratch/${NETID}/nlu/env
     cd /scratch/${NETID}/nlu/code
-    #— First time setup —#
+    #--- First time setup ---#
     git clone https://github.com/google-research/bert.git
     pip install tensorflow==1.15.0
-    #——————————#
+    #------------------------#
     cd bert
     export BERT_BASE_DIR=/scratch/${NETID}/nlu/code/bert/pre_train_model/uncased_L-12_H-768_A-12
     export GLUE_DIR=/scratch/${NETID}/nlu/data
