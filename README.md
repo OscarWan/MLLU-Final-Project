@@ -1,4 +1,4 @@
-# MLLU-Final-Project
+# Analyzing Effects of Aspect Features on Bert Performance on SentimentClassification on Financial Microblog and Headlines Dataset
 Machine Learning for Language Understanding Final Project: Using BERT with aspect to improve sentimental analysis in Twitter and Stocktwits.
 
 ## Basic Setup
