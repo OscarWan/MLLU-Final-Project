@@ -1,0 +1,81 @@
+{"question": "NYSE owner ICE may gatecrash Deutsche Boerse-LSE merger", "passage": "Corporate/M&A/Proposed Merger", "idx": 355, "label": "0"}
+{"question": "AB InBev to Sell SABMiller Stake in China's Snow Beer", "passage": "Stock/Signal/Sell Signal", "idx": 356, "label": "0"}
+{"question": "LSE-Deutsche Boerse merger would signal end to exchange mega-deals", "passage": "Corporate/M&A/M&A", "idx": 357, "label": "1"}
+{"question": "RBS Pays $1.7 Billion to Scrap U.K. Treasury's Dividend Rights", "passage": "Corporate/Dividend Policy", "idx": 358, "label": "1"}
+{"question": "Industry NewsWolseley confident in reslilience amid mixed markets", "passage": "Market/Market", "idx": 359, "label": "1"}
+{"question": "Tesco criticised for 'disgraceful' advert showing domestic worker being slapped", "passage": "Corporate/Reputation", "idx": 360, "label": "0"}
+{"question": "FTSE edges up as investors cheer Kingfisher results", "passage": "Stock/Price Action", "idx": 361, "label": "1"}
+{"question": "Barclays Bonds Rise as Lender Cuts Dividends to Shore Up Capital", "passage": "Corporate/Dividend Policy", "idx": 362, "label": "1"}
+{"question": "Britain's FTSE gets lift from Prudential results", "passage": "Corporate/Financial", "idx": 363, "label": "1"}
+{"question": "Amazon's grocery deal with Morrisons is only the beginning", "passage": "Corporate/Sales/Deal", "idx": 364, "label": "1"}
+{"question": "ICE Said to Start Lining Up Financing for LSE Bidding War", "passage": "Corporate/Rumors/Rumors", "idx": 365, "label": "1"}
+{"question": "BP, Statoil, to Withdraw Staff From Algeria Following Rocket Attack", "passage": "Corporate/Appointment/Staff Hiring", "idx": 366, "label": "0"}
+{"question": "Merkel's Government Said to Support Deutsche Boerse-LSE Merger", "passage": "Corporate/M&A/Proposed Merger", "idx": 367, "label": "1"}
+{"question": "Aviva weighs cash handout after beating profit forecast", "passage": "Corporate/Dividend Policy", "idx": 368, "label": "1"}
+{"question": "WPP, World's Largest Ad Agency, Reports Strong 2015 Growth", "passage": "Stock/Fundamentals", "idx": 369, "label": "1"}
+{"question": "Saudi Aramco, Shell plan to break up Motiva, divide up assets", "passage": "Corporate/Strategy/Reorganization", "idx": 370, "label": "0"}
+{"question": "AB InBev to sell more SAB assets as seeks EU deal approval", "passage": "Corporate/M&A/M&A", "idx": 371, "label": "0"}
+{"question": "Tesco's Sales Pickup Isn't Enough", "passage": "Corporate/Sales", "idx": 372, "label": "0"}
+{"question": "Spain's CaixaBank Expects To Close Deal For Banco BPI", "passage": "Corporate/Sales/Deal", "idx": 373, "label": "1"}
+{"question": "ITV share price: Group mulls takeover of Canada's Entertainment One", "passage": "Corporate/M&A/M&A", "idx": 374, "label": "1"}
+{"question": "Entertainment One dispels ITV takeover rumours", "passage": "Corporate/Rumors", "idx": 375, "label": "1"}
+{"question": "GE to Sell Majority Stake in Bank BPH's Core Bank to Alior Bank", "passage": "Stock/Price Action/Volatility/Sell-Off", "idx": 376, "label": "1"}
+{"question": "Tata Steel working with StanChart for UK unit sale - source", "passage": "Stock/IPO", "idx": 377, "label": "1"}
+{"question": "Crown Castle buys Tower Development Corp for $461 million", "passage": "Corporate/M&A/M&A", "idx": 378, "label": "1"}
+{"question": "Tesco sells half of stake in ecommerce site Lazada to Alibaba for Â£90m", "passage": "Stock/Price Action/Volatility/Sell-Off", "idx": 379, "label": "0"}
+{"question": "CaixaBank, dos Santos Agree on Plan for BPI Angola Exposure", "passage": "Corporate/Strategy/Company Agreement", "idx": 380, "label": "1"}
+{"question": "BPI Says Caixabank, Isabel dos Santos Reach Agreement Over Angola Exposure", "passage": "Corporate/Strategy/Company Agreement", "idx": 381, "label": "1"}
+{"question": "Spain's Caixabank launches new takeover bid for Banco BPI", "passage": "Corporate/M&A/M&A", "idx": 382, "label": "1"}
+{"question": "Despite sales growth, UK's Tesco cautions recovery to be bumpy", "passage": "Corporate/Sales", "idx": 383, "label": "0"}
+{"question": "ITV to pursue takeover of Canada's Entertainment One: Bloomberg", "passage": "Corporate/M&A/M&A", "idx": 384, "label": "1"}
+{"question": "Shire Sees Baxalta Deal Closing as Expected After New Rules", "passage": "Corporate/Sales/Deal", "idx": 385, "label": "1"}
+{"question": "OCBC to Buy Barclay's Wealth Management Unit in Singapore, Hong Kong", "passage": "Corporate/M&A/M&A", "idx": 386, "label": "1"}
+{"question": "Tesco share price steady as analysts weigh in on results", "passage": "Stock/Price Action", "idx": 387, "label": "1"}
+{"question": "Lloyds Banking Group's share price lifts amid reports bank is poised to axe hundreds of UK jobs", "passage": "Stock/Price Action", "idx": 388, "label": "1"}
+{"question": "Should You Follow Berkshire Hathaway Into Apple Stock?", "passage": "Corporate/Rumors/Scoop", "idx": 389, "label": "0"}
+{"question": "Morrisons book second consecutive quarter of sales growth", "passage": "Corporate/Sales", "idx": 390, "label": "1"}
+{"question": "Royal Mail gets mixed bag from Ofcom postal regulation report", "passage": "Corporate/Regulatory", "idx": 391, "label": "0"}
+{"question": "UPDATE 3-Ex-Barclays director accused by US of illegal tips to plumber", "passage": "Stock/Insider Activity", "idx": 392, "label": "0"}
+{"question": "EU regulators clear $100 billion-plus AB InBev, SABMiller deal", "passage": "Corporate/Sales/Deal", "idx": 393, "label": "1"}
+{"question": "Retail giant Kingfisher reports 'solid' start to the year", "passage": "Corporate/Company Communication", "idx": 394, "label": "1"}
+{"question": "Berkshire discloses unit's ties to Iran, opens probe", "passage": "Corporate/Company Communication", "idx": 395, "label": "0"}
+{"question": "Berkshire Hathaway names Kara Raiguel to lead General Re unit", "passage": "Corporate/Appointment", "idx": 396, "label": "1"}
+{"question": "European stocks hover near 3-week low, Dialog and BHP slump", "passage": "Stock/Price Action/Volume/Unusual Low Volume", "idx": 397, "label": "0"}
+{"question": "Hargreaves Lansdown bucks weak markets to see assets rise 2.6 percent", "passage": "Market/Market", "idx": 398, "label": "1"}
+{"question": "Australia clears AB Inbev's $100 billion SABMiller buyout plan", "passage": "Corporate/Strategy/Buyout", "idx": 399, "label": "1"}
+{"question": "Goodwin not to face Scottish prosecution over RBS", "passage": "Corporate/Legal", "idx": 400, "label": "1"}
+{"question": "Royal Mail turnaround proving expensive in tough UK market", "passage": "Market/Market", "idx": 401, "label": "0"}
+{"question": "Whitbread buys 49% stake in Pure food chain", "passage": "Corporate/M&A/M&A", "idx": 402, "label": "1"}
+{"question": "Irish Said Chasing Standard Chartered, RBS as Brexit Vote Nears", "passage": "Corporate/Strategy/Corporate Planning", "idx": 403, "label": "1"}
+{"question": "Royal Mail share price rallies amid positive broker comments", "passage": "Stock/Price Action", "idx": 404, "label": "1"}
+{"question": "InterContinental Hotels first-quarter global room revenue lags estimates", "passage": "Corporate/Sales", "idx": 405, "label": "0"}
+{"question": "Aspen to Buy Anaesthetics From AstraZeneca for $520 Million", "passage": "Corporate/M&A/M&A", "idx": 406, "label": "1"}
+{"question": "London Stock Exchange â€“ Deutsche Boerse merger under threat from Brexit", "passage": "Corporate/M&A/M&A", "idx": 407, "label": "0"}
+{"question": "Sainsbury CFO Rogers to Replace Home Retail CEO Walden", "passage": "Corporate/Appointment", "idx": 408, "label": "0"}
+{"question": "BP joins forces with Det Norske in Norway", "passage": "Corporate/Strategy/Company Agreement", "idx": 409, "label": "1"}
+{"question": "BRIEF-Legal & General's retirement business books 4 billion stg H1 sales", "passage": "Corporate/Sales", "idx": 410, "label": "1"}
+{"question": "Johnson Matthey revs up on clean air drive", "passage": "Corporate/Strategy", "idx": 411, "label": "1"}
+{"question": "Goldman Sachs, Barclays, HSBC downplay Brexit threat", "passage": "Corporate/Risks", "idx": 412, "label": "0"}
+{"question": "Asahi could be about to snap up more of SABMiller's beers ahead of AB InBev sale", "passage": "Corporate/Strategy/Investment", "idx": 413, "label": "1"}
+{"question": "LSE-Deutsche BÃ¶rse dealmakers wrong to ignore Brexit risk", "passage": "Corporate/Risks", "idx": 414, "label": "0"}
+{"question": "Tesco sales recover as focus returns to core business", "passage": "Corporate/Sales", "idx": 415, "label": "1"}
+{"question": "Johnson Matthey profit falls but dividend rises", "passage": "Corporate/Dividend Policy", "idx": 416, "label": "0"}
+{"question": "Are ARM Holdings plc, Domino's Pizza Group plc and ASOS plc 3 must-have growth stocks?", "passage": "Corporate/Rumors/Scoop", "idx": 417, "label": "0"}
+{"question": "Priceline's stock jumps to new high for the year after Barclays upgrade", "passage": "Stock/Coverage", "idx": 418, "label": "1"}
+{"question": "Tesco set to sell Kipa, Giraffe businesses - Sky News", "passage": "Stock/Signal/Sell Signal", "idx": 419, "label": "0"}
+{"question": "The Coca-Cola Company and Coca-Cola FEMSA to Acquire AdeS Soy-Based Beverage Business From Unilever", "passage": "Corporate/M&A/M&A", "idx": 420, "label": "1"}
+{"question": "HSBC Says Unit to Book $585 Million Charge on Settlement", "passage": "Corporate/Legal", "idx": 421, "label": "0"}
+{"question": "Hammerson, JV Partner secure ownership of Ireland's Dundrum - Quick Facts", "passage": "Corporate/M&A/M&A", "idx": 422, "label": "1"}
+{"question": "Aviva promises higher dividends to boost flagging share price", "passage": "Corporate/Dividend Policy", "idx": 423, "label": "1"}
+{"question": "CompaniesFresnillo shares jump 8% as silver price breaks $21", "passage": "Stock/Price Action", "idx": 424, "label": "1"}
+{"question": "Should you buy Associated British Foods plc, Great Portland Estates plc and Dunelm Group plc following today's news?", "passage": "Corporate/Rumors/Rumors", "idx": 425, "label": "1"}
+{"question": "Berkshire seeks to boost its Wells Fargo stake above 10 percent", "passage": "Stock/Signal/Buy Signal", "idx": 426, "label": "1"}
+{"question": "Tesco share price tumbles after negative broker note", "passage": "Stock/Price Action", "idx": 427, "label": "0"}
+{"question": "London Stock Exchange Shareholders Approve Merger With Deutsche BÃ¶rse", "passage": "Corporate/M&A/M&A", "idx": 428, "label": "1"}
+{"question": "UPDATE 1-Berkshire applies to boost Wells Fargo stake above 10 pct", "passage": "Stock/Signal/Sell Signal", "idx": 429, "label": "1"}
+{"question": "Berkshire applies to boost Wells Fargo stake above 10 percent", "passage": "Stock/Signal/Buy Signal", "idx": 430, "label": "1"}
+{"question": "Aviva, M&G suspend property funds as investors panic", "passage": "Corporate/Risks", "idx": 431, "label": "0"}
+{"question": "UK housing market steadies after Brexit dip, Persimmon says", "passage": "Market/Market", "idx": 432, "label": "1"}
+{"question": "BRIEF-Aviva aims to increase dividend pay-out ratio to 50 pct in 2017", "passage": "Corporate/Dividend Policy", "idx": 433, "label": "1"}
+{"question": "Builder Persimmon hails 6% rise in house sales", "passage": "Corporate/Sales", "idx": 434, "label": "1"}
+{"question": "EasyJet attracts more passengers in June but still lags Ryanair", "passage": "Corporate/Sales/Sales", "idx": 435, "label": "1"}
