@@ -1,81 +1,167 @@
-{"question": "Primark racks up a happy Christmas after strong sales", "passage": "Market/Strategy/Partnership/Stock Volatility/Financial Results", "idx": 4, "label": "1"}
-{"question": "Primark racks up a happy Christmas after strong sales", "passage": "Stock/Volatility/Demand Shortfall/Unusually high volume/Financial Results", "idx": 4, "label": "1"}
-{"question": "UPDATE 1-Dairy Crest loses a third of Morrisons milk contract", "passage": "Economy/Conditions/Insider Trading", "idx": 2, "label": "0"}
-{"question": "Primark racks up a happy Christmas after strong sales", "passage": "Market/Trade/Lawsuit/Financial/Financial Results", "idx": 4, "label": "1"}
-{"question": "UPDATE 1-Dairy Crest loses a third of Morrisons milk contract", "passage": "Market/Currency/Court Ruling", "idx": 2, "label": "0"}
-{"question": "UPDATE 1-Dairy Crest loses a third of Morrisons milk contract", "passage": "Stock/Signal/Court Ruling", "idx": 2, "label": "0"}
-{"question": "Primark racks up a happy Christmas after strong sales", "passage": "Stock/Insider Activity/Dividend/Direction/Financial Results", "idx": 4, "label": "1"}
-{"question": "UPDATE 1-Dairy Crest loses a third of Morrisons milk contract", "passage": "Market/Reputation/Share Buyback", "idx": 2, "label": "0"}
-{"question": "Royal Mail chairman Donald Brydon set to step down", "passage": "Corporate", "idx": 0, "label": "0"}
-{"question": "UPDATE 1-Dairy Crest loses a third of Morrisons milk contract", "passage": "Corporate/Legal/Extraordinary Meeting", "idx": 2, "label": "0"}
-{"question": "Royal Mail chairman Donald Brydon set to step down", "passage": "Economy", "idx": 0, "label": "0"}
-{"question": "Royal Mail chairman Donald Brydon set to step down", "passage": "Stock", "idx": 0, "label": "0"}
-{"question": "Primark racks up a happy Christmas after strong sales", "passage": "Economy/Technical Analysis/Sell Signal/Earnings/Financial Results", "idx": 4, "label": "1"}
-{"question": "Stakes High for AstraZeneca Heart Drug Facing Tough Competition", "passage": "Stock/Volatility", "idx": 1, "label": "0"}
-{"question": "Stakes High for AstraZeneca Heart Drug Facing Tough Competition", "passage": "Market/Reputation", "idx": 1, "label": "0"}
-{"question": "UPDATE 1-Dairy Crest loses a third of Morrisons milk contract", "passage": "Corporate/Volatility/Partnership", "idx": 2, "label": "0"}
-{"question": "Stakes High for AstraZeneca Heart Drug Facing Tough Competition", "passage": "Stock/Currency", "idx": 1, "label": "0"}
-{"question": "Insight hires Aviva's David Hillier for multi-asset team", "passage": "Stock/Company Communication/Bearish/Bullish Behaviour", "idx": 3, "label": "1"}
-{"question": "UPDATE 1-Dairy Crest loses a third of Morrisons milk contract", "passage": "Stock/Technical Analysis/Dividend", "idx": 2, "label": "0"}
-{"question": "Insight hires Aviva's David Hillier for multi-asset team", "passage": "Economy/Fundamentals/Bullish', 'Corporate/Unusually high volume", "idx": 3, "label": "1"}
-{"question": "Primark racks up a happy Christmas after strong sales", "passage": "Stock/Trade/Stock Buyside/Financial/Financial Results", "idx": 4, "label": "1"}
-{"question": "Primark racks up a happy Christmas after strong sales", "passage": "Corporate/Financial/Dispute/Earnings/Financial Results", "idx": 4, "label": "1"}
-{"question": "Royal Mail chairman Donald Brydon set to step down", "passage": "Corporate", "idx": 0, "label": "0"}
-{"question": "Royal Mail chairman Donald Brydon set to step down", "passage": "Economy", "idx": 0, "label": "0"}
-{"question": "Insight hires Aviva's David Hillier for multi-asset team", "passage": "Economy/Volatility/Bearish/Earnings", "idx": 3, "label": "1"}
-{"question": "UPDATE 1-Dairy Crest loses a third of Morrisons milk contract", "passage": "Corporate/Financial/Demand Shortfall", "idx": 2, "label": "0"}
-{"question": "Stakes High for AstraZeneca Heart Drug Facing Tough Competition", "passage": "Stock/Legal", "idx": 1, "label": "0"}
-{"question": "Insight hires Aviva's David Hillier for multi-asset team", "passage": "Corporate/Insider Activity/Bullish', 'Corporate/Monetary Policy - SNB", "idx": 3, "label": "1"}
-{"question": "UPDATE 1-Dairy Crest loses a third of Morrisons milk contract", "passage": "Economy/Buyside/Court Ruling", "idx": 2, "label": "0"}
-{"question": "Royal Mail chairman Donald Brydon set to step down", "passage": "Stock", "idx": 0, "label": "0"}
-{"question": "Royal Mail chairman Donald Brydon set to step down", "passage": "Stock", "idx": 0, "label": "0"}
-{"question": "Insight hires Aviva's David Hillier for multi-asset team", "passage": "Market/IPO/Future Price/Bullish Behaviour", "idx": 3, "label": "1"}
-{"question": "Royal Mail chairman Donald Brydon set to step down", "passage": "Corporate", "idx": 0, "label": "0"}
-{"question": "Stakes High for AstraZeneca Heart Drug Facing Tough Competition", "passage": "Market/Appointment", "idx": 1, "label": "0"}
-{"question": "Insight hires Aviva's David Hillier for multi-asset team", "passage": "Stock/Sales/Divestment/Unusual Low Volume", "idx": 3, "label": "1"}
-{"question": "UPDATE 1-Dairy Crest loses a third of Morrisons milk contract", "passage": "Economy/Appointment/Monetary Policy", "idx": 2, "label": "0"}
-{"question": "Stakes High for AstraZeneca Heart Drug Facing Tough Competition", "passage": "Corporate/Company Communication", "idx": 1, "label": "0"}
-{"question": "UPDATE 1-Dairy Crest loses a third of Morrisons milk contract", "passage": "Economy/Volatility/Bullish', 'Corporate", "idx": 2, "label": "0"}
-{"question": "Royal Mail chairman Donald Brydon set to step down", "passage": "Corporate", "idx": 0, "label": "0"}
-{"question": "Royal Mail chairman Donald Brydon set to step down", "passage": "Corporate", "idx": 0, "label": "0"}
-{"question": "Primark racks up a happy Christmas after strong sales", "passage": "Economy/Trade/Investment/Earnings/Financial Results", "idx": 4, "label": "1"}
-{"question": "Stakes High for AstraZeneca Heart Drug Facing Tough Competition", "passage": "Market/Dividend Policy", "idx": 1, "label": "0"}
-{"question": "UPDATE 1-Dairy Crest loses a third of Morrisons milk contract", "passage": "Stock/Dividend Policy/Sanctions", "idx": 2, "label": "0"}
-{"question": "Stakes High for AstraZeneca Heart Drug Facing Tough Competition", "passage": "Corporate/Reputation", "idx": 1, "label": "0"}
-{"question": "Insight hires Aviva's David Hillier for multi-asset team", "passage": "Market/Price Action/Market Trend/Stock Volatility", "idx": 3, "label": "1"}
-{"question": "Stakes High for AstraZeneca Heart Drug Facing Tough Competition", "passage": "Market/Coverage", "idx": 1, "label": "0"}
-{"question": "Stakes High for AstraZeneca Heart Drug Facing Tough Competition", "passage": "Corporate/Trade", "idx": 1, "label": "0"}
-{"question": "UPDATE 1-Dairy Crest loses a third of Morrisons milk contract", "passage": "Market/Sales/Corporate Planning", "idx": 2, "label": "0"}
-{"question": "Insight hires Aviva's David Hillier for multi-asset team", "passage": "Corporate/Market/Market Outlook/Direction", "idx": 3, "label": "1"}
-{"question": "Stakes High for AstraZeneca Heart Drug Facing Tough Competition", "passage": "Market/M&A", "idx": 1, "label": "0"}
-{"question": "Stakes High for AstraZeneca Heart Drug Facing Tough Competition", "passage": "Stock/Signal", "idx": 1, "label": "0"}
-{"question": "UPDATE 1-Dairy Crest loses a third of Morrisons milk contract", "passage": "Corporate/Coverage/Joint Venture", "idx": 2, "label": "0"}
-{"question": "Primark racks up a happy Christmas after strong sales", "passage": "Economy/IPO/Insider Trading/Trending up/Financial Results", "idx": 4, "label": "1"}
-{"question": "Royal Mail chairman Donald Brydon set to step down", "passage": "Economy", "idx": 0, "label": "0"}
-{"question": "Insight hires Aviva's David Hillier for multi-asset team", "passage": "Stock/Legal/Buyout/Dividend going up", "idx": 3, "label": "1"}
-{"question": "UPDATE 1-Dairy Crest loses a third of Morrisons milk contract", "passage": "Stock/IPO/Share Buyback", "idx": 2, "label": "0"}
-{"question": "Stakes High for AstraZeneca Heart Drug Facing Tough Competition", "passage": "Corporate/Insider Activity", "idx": 1, "label": "0"}
-{"question": "Insight hires Aviva's David Hillier for multi-asset team", "passage": "Corporate/Rumors/Court Ruling/Unusual Low Volume", "idx": 3, "label": "1"}
-{"question": "UPDATE 1-Dairy Crest loses a third of Morrisons milk contract", "passage": "Stock/Trade/Investment", "idx": 2, "label": "0"}
-{"question": "Insight hires Aviva's David Hillier for multi-asset team", "passage": "Corporate/Market/Corporate Expansion/Earnings", "idx": 3, "label": "1"}
-{"question": "UPDATE 1-Dairy Crest loses a third of Morrisons milk contract", "passage": "Corporate/Sales/?", "idx": 2, "label": "0"}
-{"question": "Insight hires Aviva's David Hillier for multi-asset team", "passage": "Corporate/Fundamentals/Dispute/Bearish Behaviour", "idx": 3, "label": "1"}
-{"question": "UPDATE 1-Dairy Crest loses a third of Morrisons milk contract", "passage": "Corporate/M&A/Executive Appointment", "idx": 2, "label": "0"}
-{"question": "Primark racks up a happy Christmas after strong sales", "passage": "Economy/Reputation/Bullish/Direction/Financial Results", "idx": 4, "label": "1"}
-{"question": "Stakes High for AstraZeneca Heart Drug Facing Tough Competition", "passage": "Market/Coverage", "idx": 1, "label": "0"}
-{"question": "UPDATE 1-Dairy Crest loses a third of Morrisons milk contract", "passage": "Market/Company Communication/Financial Results", "idx": 2, "label": "0"}
-{"question": "Royal Mail chairman Donald Brydon set to step down", "passage": "Stock", "idx": 0, "label": "0"}
-{"question": "Insight hires Aviva's David Hillier for multi-asset team", "passage": "Economy/Rumors/Corporate Planning/Bullish Behaviour", "idx": 3, "label": "1"}
-{"question": "Royal Mail chairman Donald Brydon set to step down", "passage": "Market", "idx": 0, "label": "0"}
-{"question": "Primark racks up a happy Christmas after strong sales", "passage": "Market/Risks/Divestment/Stock Volatility/Financial Results", "idx": 4, "label": "1"}
-{"question": "Insight hires Aviva's David Hillier for multi-asset team", "passage": "Stock/Risks/Market Outlook/Unusual Low Volume", "idx": 3, "label": "1"}
-{"question": "Insight hires Aviva's David Hillier for multi-asset team", "passage": "Stock/Buyside/Sales/Dividend going up", "idx": 3, "label": "1"}
-{"question": "Primark racks up a happy Christmas after strong sales", "passage": "Corporate/Volatility/Company Agreement/Bearish Behaviour/Financial Results", "idx": 4, "label": "1"}
-{"question": "Royal Mail chairman Donald Brydon set to step down", "passage": "Stock", "idx": 0, "label": "0"}
-{"question": "Royal Mail chairman Donald Brydon set to step down", "passage": "Corporate", "idx": 0, "label": "0"}
-{"question": "Insight hires Aviva's David Hillier for multi-asset team", "passage": "Corporate/Strategy/Investment/Bearish Behaviour", "idx": 3, "label": "1"}
-{"question": "UPDATE 1-Dairy Crest loses a third of Morrisons milk contract", "passage": "Economy/Sales/Joint Venture", "idx": 2, "label": "0"}
-{"question": "Royal Mail chairman Donald Brydon set to step down", "passage": "Corporate", "idx": 0, "label": "0"}
-{"question": "Insight hires Aviva's David Hillier for multi-asset team", "passage": "Corporate/M&A/Sell Signal/Sell-Off", "idx": 3, "label": "1"}
-{"question": "UPDATE 1-Dairy Crest loses a third of Morrisons milk contract", "passage": "Market/Trade/Settlement", "idx": 2, "label": "0"}
-{"question": "Insight hires Aviva's David Hillier for multi-asset team", "passage": "Market/Trade/Volatility/Bullish Behaviour", "idx": 3, "label": "1"}
+{"question": "Amazon declares 'best ever' Black Friday and Cyber Monday for Kindle family http://stks.co/cEtw via Engadget $AMZN", "passage": "Corporate", "idx": "15676", "label": "1"}
+{"question": "Merged LSE and Deutsche BÃ¶rse would be led by Germany's Kengeter", "passage": "Economy", "idx": "1289", "label": "1"}
+{"question": "ConAgra Names Former Hillshire Farms CEO Connolly to Top Post", "passage": "Market/Financial/M&A/Cash Flow", "idx": "128", "label": "1"}
+{"question": "Teva: FDA Approves Generic Version of AstraZeneca Heartburn Drug", "passage": "Economy", "idx": "49", "label": "1"}
+{"question": "Exact (EXAS) Flagged As Strong On High Volume $EXAS http://stks.co/r26Ra", "passage": "Market/Technical Analysis/Failed Contract Discussion", "idx": "16947", "label": "1"}
+{"question": "Doubts grow over GlaxoSmithKline's $6 bln capital return plan", "passage": "Market/Conditions", "idx": "394", "label": "0"}
+{"question": "Baird Upgrades Tesla Motors $TSLA to Outperform https://t.co/1FA6aTOqlw", "passage": "Corporate/Conditions/Reorganization/Bull Call Spread/Earnings Beat", "idx": "17272", "label": "1"}
+{"question": "$FAST $GWW - daily sales slowing again, pretty timely coincident indicator https://t.co/m6BKHBkzK5", "passage": "Corporate", "idx": "18211", "label": "0"}
+{"question": "easyJet leads Britain's FTSE lower as global bond rout resumes", "passage": "Stock/Buyside/Bullish', 'Corporate/Cash Flow", "idx": "395", "label": "0"}
+{"question": "$AAPL at resistance right here...sold my shares...will buy back if it dips or if it goes in the 128 gap zone", "passage": "Economy/Trade/Stock Coverage/Cash Reserves/Profit Warning", "idx": "16870", "label": "0"}
+{"question": "$IBM staying strong", "passage": "Market", "idx": "15132", "label": "1"}
+{"question": "$AAPL weekly still under the 50 moving average and creating a lower high. https://t.co/vT7ppzY2UY", "passage": "Market/Reputation/Business Model/Financial", "idx": "17758", "label": "0"}
+{"question": "Went long on this $COG, will see 70's again me thinks", "passage": "Market", "idx": "15482", "label": "1"}
+{"question": "$BOBE down $2.84  premarket", "passage": "Stock/Conditions/Accounting/Direction/Financial Results", "idx": "16648", "label": "0"}
+{"question": "Really surprised by how much $FB has now fallen. Thought there'd be some support around the 50d, but I guess not.", "passage": "Market/Trade/Proposed Merger/Short Selling", "idx": "18151", "label": "0"}
+{"question": "Shire Sees Baxalta Deal Closing as Expected After New Rules", "passage": "Stock/Technical Analysis/Bankruptcy/Unusual high volume/Company Guidance", "idx": "1516", "label": "1"}
+{"question": "$P bull flag on the daily, earnings on the table tomorrow +/-12 move.Will straddle this one into earnings..lots of vol guaranteed here", "passage": "Economy/Coverage/Lawsuit/Oversold/Company Guidance", "idx": "16203", "label": "1"}
+{"question": "TRLPC - CRH backs Lafarge Holcim asset buy with 6.5 bln euro bridge loan", "passage": "Corporate/Options/Bullish', 'Corporate/Direction", "idx": "182", "label": "1"}
+{"question": "$XLI Potential intermediate top in an Uptrend on a 60'-15'-4' charts http://stks.co/j1TdF", "passage": "Stock/Central Banks/Demand Shortfall", "idx": "17095", "label": "1"}
+{"question": "longed $AMZN 300 @ 189.82", "passage": "Economy/Signal/Proposed Merger", "idx": "14959", "label": "1"}
+{"question": "$UVXY Put the chum out there at key support then next level down - careful", "passage": "Economy/Financial/Sale Halt", "idx": "16005", "label": "0"}
+{"question": "volatility squeeze in $AAPL. I hope it gets resolved to the upside", "passage": "Corporate/Volatility/Volatility", "idx": "14931", "label": "1"}
+{"question": "$PCLN Trying to break daily trend line! Big move could happen https://t.co/gY0aDb2jsQ https://t.co/KPBBCgQ2xy", "passage": "Economy/Risks/Product Recall", "idx": "17833", "label": "1"}
+{"question": "$AXP Looking for continuation with volume increase http://stks.co/c8sR", "passage": "Corporate/Fundamentals/Insider Selling/Bullish Behaviour/Profit Warning", "idx": "15323", "label": "1"}
+{"question": "$KNDI Let's see some higher highs and higher lows rest of the day , slow and steady", "passage": "Market/Reputation/Failed Contract Discussion/Upgrade", "idx": "16641", "label": "1"}
+{"question": "$YHOO fishy action. New party interested (DailyMail) bounce & retreats. Not short by any means, but action questions big up move. Thoughts?", "passage": "Economy/Strategy/MACD/Bullish Behaviour/Company Guidance", "idx": "17250", "label": "0"}
+{"question": "Should You Follow Berkshire Hathaway Into Apple Stock?", "passage": "Economy/Market/M&A/Exisiting bankruptcy/Earnings Beat", "idx": "1545", "label": "0"}
+{"question": "FDA approves NPS drug, in move validating Shire takeover deal", "passage": "Stock/M&A/MACD", "idx": "56", "label": "1"}
+{"question": "@chessNwine: $IWM 30-Minute Chart. Small caps threatening descending triangle breakdown under $110.20.  http://stks.co/r0KKm", "passage": "Economy/Buyside/MACD/downgrade", "idx": "16220", "label": "0"}
+{"question": "$GMCR with the way this has been acting, it may fall to 65 today, horrible action since it hit 70 yesterday", "passage": "Economy/Dividend Policy/Strategies/Bearish Behaviour", "idx": "15462", "label": "0"}
+{"question": "$ROST Nov 90 calls 2.08 .. Go Long until exp imo ! Unless europeans keeps F'ing around !", "passage": "Corporate/Dividend Policy/Financial Results/Bull Position", "idx": "15079", "label": "1"}
+{"question": "$BBRY Ready for Take OFF!", "passage": "Economy/Insider Activity/M&A", "idx": "16111", "label": "1"}
+{"question": "Juniper tumbles on Q1 warning; Cisco also lower $JNPR $CSCO https://t.co/bGvIntk43h", "passage": "Economy/Signal", "idx": "17794", "label": "0"}
+{"question": "Warren Buffett defends Berkshire Hathaway's conglomerate structure", "passage": "Market/Fundamentals/Lawsuit", "idx": "190", "label": "1"}
+{"question": "$NUAN held up well after the big gains! Maybe we're finally on the move on this!!its still very undervalued and has major upside", "passage": "Stock/IPO/Contract Withdrawn/Selling Pressure", "idx": "17082", "label": "1"}
+{"question": "After Barclays and Bank of America, Citigroup has blockchain in sight", "passage": "Market/Sales/Business Outlook/Selling Pressure", "idx": "840", "label": "1"}
+{"question": "$INO Up, up, and away!", "passage": "Economy", "idx": "16647", "label": "1"}
+{"question": "$GPS Gap September Comparable Store Sales -4%", "passage": "Economy", "idx": "14995", "label": "0"}
+{"question": "$mcp rolling over for a new intraday low. Bottom Pickers continue to get destroyed", "passage": "Economy/Regulatory/Dividend/Upgrade", "idx": "15099", "label": "0"}
+{"question": "L&G completes UK's largest medically underwritten bulk pension risk deal", "passage": "Market/Sales/Product Flaws/Upgrade/Company Guidance", "idx": "1155", "label": "1"}
+{"question": "Piper upgrades Symantec on improving renewal rates and enterprise growth $SYMC", "passage": "Corporate", "idx": "17512", "label": "1"}
+{"question": "$AAPL Now I'm glad I got stopped out of my $113 weeklies when I did. Will re-enter next Monday for the #earnings run-up.", "passage": "Stock", "idx": "16799", "label": "1"}
+{"question": "$PAY 2nd time test of the 21.20-30 b/o zone.  Still not breaking out.  Moved my stop up to 20.80.", "passage": "Economy/Fundamentals/Bankruptcy/Dividend going up/Profit Warning", "idx": "16061", "label": "1"}
+{"question": "Whitbread share price climbs on Q4 sales growth", "passage": "Economy/Strategy/Corporate Expansion", "idx": "188", "label": "1"}
+{"question": "$FB Dax says bye bye 2013 - finished a great yr w 28% plus!", "passage": "Economy/IPO/Volatility", "idx": "15888", "label": "1"}
+{"question": "$NVDA sideways", "passage": "Market/M&A/Corporate Planning", "idx": "15175", "label": "0"}
+{"question": "$TSLA steaming up again, this stock is relentless at the moment", "passage": "Stock/Trade/Business Outlook", "idx": "17383", "label": "1"}
+{"question": "Kinder Morgan and BP Form Joint Venture Limited Liability Company to Purchase ...", "passage": "Corporate/Legal/New Product/Cash Flow", "idx": "966", "label": "1"}
+{"question": "$YOKU high volume blast off Friday, goes higher  http://stks.co/qSaL", "passage": "Market/Currency", "idx": "16121", "label": "1"}
+{"question": "Berkshire applies to boost Wells Fargo stake above 10 percent", "passage": "Stock/Options/Sell Signal/Bullish Behavior", "idx": "1748", "label": "1"}
+{"question": "$INVE : SEE YA ABOVE $8", "passage": "Corporate", "idx": "16934", "label": "1"}
+{"question": "Diageo sales disappoint as currency and comparatives leave bitter taste", "passage": "Market", "idx": "374", "label": "0"}
+{"question": "Are ARM Holdings plc, Domino's Pizza Group plc and ASOS plc 3 must-have growth stocks?", "passage": "Stock/Conditions", "idx": "1699", "label": "0"}
+{"question": "$fb small long 109.25 via calls", "passage": "Corporate", "idx": "18708", "label": "1"}
+{"question": "$FB gettin in the buy zone soon ;)", "passage": "Market/Regulatory//Bull Call Spread", "idx": "18581", "label": "1"}
+{"question": "$TSLA looking good..i'd love to see a basing action here, letting the RSI take a breather. http://stks.co/g1T7c", "passage": "Corporate", "idx": "16435", "label": "1"}
+{"question": "$TSLA Wish had my puts back but see if we can find support around 243.39 and pop up so that I can get back in. https://t.co/hFkLq3WObV", "passage": "Economy/M&A/Stock Buyside/Bearish Behaviour/Profit Warning", "idx": "19149", "label": "0"}
+{"question": "AstraZeneca weighing up Acerta bid to secure blood cancer drug", "passage": "Market/Central Banks/Product Flaws", "idx": "1147", "label": "1"}
+{"question": "UPDATE 1-Berkshire applies to boost Wells Fargo stake above 10 pct", "passage": "Economy/Signal/Corporate Expansion", "idx": "1743", "label": "1"}
+{"question": "$AAPL double bottom could be in, keep in mind", "passage": "Corporate/Financial/Scoop", "idx": "15874", "label": "1"}
+{"question": "$HITK  Resuming advance into new historical highs.", "passage": "Stock", "idx": "15176", "label": "1"}
+{"question": "$MPWR CEO sells 450k april 15th..meh", "passage": "Market/Technical Analysis/Deal/Cash Flow", "idx": "16888", "label": "0"}
+{"question": "$CRUS Upgraded to a buy by Alpha Street Research", "passage": "Economy", "idx": "16031", "label": "1"}
+{"question": "$ESI on lows, down $1.50 to $2.50 BK a real possibility", "passage": "Economy/Price Action/Sale Halt", "idx": "16915", "label": "0"}
+{"question": "$NFLX I say it's time to short at this point.", "passage": "Stock/Strategy/Breakout/Overbought/Earnings Beat", "idx": "17764", "label": "0"}
+{"question": "$LULU http://stks.co/o17i Bounced off support early in week - now indicators turning up (RSI, MACD, SMI) Worth a look", "passage": "Economy/Risks/Insider Selling/Bull Position", "idx": "15421", "label": "1"}
+{"question": "AstraZeneca wins FDA approval for key new lung cancer pill", "passage": "Stock/Rumors", "idx": "1000", "label": "1"}
+{"question": "VIVUS $VVUS bear raid in effect. Stock down 12%", "passage": "Economy/Central Banks/Stock Coverage/Bullish Behavior", "idx": "15250", "label": "0"}
+{"question": "Rio Tinto swings to loss, drops dividend policy", "passage": "Market", "idx": "1324", "label": "0"}
+{"question": "$TSLA weakest in todays DT watchlist", "passage": "Market", "idx": "17688", "label": "0"}
+{"question": "$QCOM chart: Qualcomm Short 61.8% Retracement, Trendline and Resistance. https://t.co/2WQqh35KOY", "passage": "Stock/Technical Analysis/Business Outlook", "idx": "17359", "label": "0"}
+{"question": "Watch these bancos.they're holding up relatively well compared to the broad market $XLF $BAC $GS $C <--large C buying in $BAC in backburner", "passage": "Economy/Risks/Volume/Bull Position", "idx": "16178", "label": "1"}
+{"question": "NYSE owner ICE may gatecrash Deutsche Boerse-LSE merger", "passage": "Market/Insider Activity", "idx": "1380", "label": "0"}
+{"question": "Juniper tumbles on Q1 warning; Cisco also lower https://t.co/N8X8BpLJ1E $JNPR $CSCO", "passage": "Economy", "idx": "18981", "label": "0"}
+{"question": "$DNKN $KKD $DPZ $LOCO Inside week buy triggers. http://stks.co/h0vV8  http://stks.co/r0ebN", "passage": "Stock/Regulatory/Bullish', 'Corporate", "idx": "16239", "label": "1"}
+{"question": "Aviva shuts Friends Life head office in rapid integration move", "passage": "Market/Coverage", "idx": "405", "label": "0"}
+{"question": "Tesco closes in on new chairman with Dixons Carphone's John Allan in the frame", "passage": "Corporate/Rumors/Settlement/Dividend going up/Earnings miss", "idx": "158", "label": "1"}
+{"question": "LSE-Deutsche Boerse merger would signal end to exchange mega-deals", "passage": "Stock/Market", "idx": "1383", "label": "1"}
+{"question": "ouch looks like $tsla shorts getting skinned again", "passage": "Market/Technical Analysis/Sanctions/52-Week High", "idx": "19117", "label": "1"}
+{"question": "$SPY Looks like bear traps getting laid faster than Cadbury Creme Eggs by the Easter Bunny", "passage": "Corporate/Strategy/Executive Appointment", "idx": "17038", "label": "1"}
+{"question": "GlaxoSmithKline share price slips as FDA okays asthma therapy only for adults", "passage": "Corporate/Financial", "idx": "429", "label": "0"}
+{"question": "Amazon's grocery deal with Morrisons is only the beginning", "passage": "Economy/Legal/M&A/Monetary Policy - SNB/Profit Warning", "idx": "1415", "label": "1"}
+{"question": "$NFLX and $TSLA making all kinds of gains 📈", "passage": "Market/Price Action/Corporate Planning/Earnings", "idx": "17637", "label": "1"}
+{"question": "$SPY  still wants higher I think.", "passage": "Economy/Appointment/Trend", "idx": "16066", "label": "1"}
+{"question": "$SLV -4.44% at 18 now AWFUL, down from 42.50", "passage": "Market/Strategy/Business Outlook/Unusually high volume", "idx": "16014", "label": "0"}
+{"question": "Locked in some $FB puts for nice gain", "passage": "Stock/Financial", "idx": "18827", "label": "0"}
+{"question": "$SBUX heading for the 200DMA and certain doom if it can not hold there.", "passage": "Economy/Price Action/", "idx": "18285", "label": "0"}
+{"question": "Lloyds Banking Group's share price lifts amid reports bank is poised to axe hundreds of UK jobs", "passage": "Corporate/Rumors", "idx": "1530", "label": "1"}
+{"question": "$PRGN A bottom right here?", "passage": "Corporate", "idx": "16200", "label": "1"}
+{"question": "$BIOC RSI extremely in long's favor looking at BIOC historically.", "passage": "Stock/Trade", "idx": "16956", "label": "1"}
+{"question": "$CHRM Loooooongggggg base", "passage": "Corporate/Trade/Buy Signal", "idx": "16668", "label": "1"}
+{"question": "$RNN day traders flushed out, it should start going up slowly from now on .", "passage": "Corporate", "idx": "16217", "label": "1"}
+{"question": "@catskillfishing  Note the monthly chart of $GDX & how it recaptured support. $GLD possible double bottom set up. http://stks.co/aw6z", "passage": "Corporate/Technical Analysis/Corporate Expansion/Stock Volatility", "idx": "16010", "label": "1"}
+{"question": "Here come the shorts marchin' in.  $GMCR.  Lovin' it!", "passage": "Market/Regulatory", "idx": "15021", "label": "0"}
+{"question": "BP, Statoil, to Withdraw Staff From Algeria Following Rocket Attack", "passage": "Stock/Insider Activity/Financial Results/Bear Position/Profit Warning", "idx": "1426", "label": "0"}
+{"question": "AstraZeneca profit down as sales of stalwarts fade", "passage": "Corporate", "idx": "381", "label": "0"}
+{"question": "$LNKD Daily Phase 2 retest - Price experiencing early rejection. Can it retest? http://stks.co/t04xX", "passage": "Market/Buyside/Accounting/Bull Call Spread", "idx": "16526", "label": "0"}
+{"question": "Tesla is recalling 2,700 Model X cars: https://t.co/8Z7BkVsTl9 $TSLA", "passage": "Stock/Technical Analysis", "idx": "18707", "label": "0"}
+{"question": "Tesco shares jump 6% after Christmas sales beat expectations", "passage": "Economy/Conditions/Executive Appointment/Direction/Company Guidance", "idx": "1192", "label": "1"}
+{"question": "WPP wins race for 'programmatic buying' agency Essence Digital", "passage": "Stock/Fundamentals", "idx": "980", "label": "1"}
+{"question": "Shell to buy BG Group in $69.7 billion takeover", "passage": "Market", "idx": "335", "label": "1"}
+{"question": "Aspen to Buy Anaesthetics From AstraZeneca for $520 Million", "passage": "Corporate/Market", "idx": "1629", "label": "1"}
+{"question": "$AGN and $PYPL under pressure along with the market, however there were bullish options trades in both this morning https://t.co/9xG5W8nONT", "passage": "Market/Technical Analysis", "idx": "17219", "label": "1"}
+{"question": "End Of Day Scan: Stochastic Overbought $JDST $FREE $BLRX $LPG $AFSI $DVAX $HDGE $AHT $ALR $ASMB  www.dailystockplays.com", "passage": "Stock/Appointment/Lawsuit", "idx": "16751", "label": "0"}
+{"question": "Double bottom with handle buy point of 56.49 $WMT http://chart.ly/ml857v3", "passage": "Market/Strategy/Demand Shortfall", "idx": "15000", "label": "1"}
+{"question": "UPDATE 3-Ex-Barclays director accused by US of illegal tips to plumber", "passage": "Economy/Reputation/Reorganization/Monetary Policy - SNB", "idx": "1559", "label": "0"}
+{"question": "Preparing for a Breakout Trade in Netflix $NFLX  https://t.co/CzHIX3tuAG $$ https://t.co/z1qb9xa4LD", "passage": "Market", "idx": "17455", "label": "1"}
+{"question": "$FREE Ha Heeeeeere comes the pump! So glad I picked up 9K end of day! Get ready for the bull ride!", "passage": "Market/Dividend Policy/Strategies/Selling Pressure/Company Guidance", "idx": "17080", "label": "1"}
+{"question": "MillerCoors Board Names Gavin Hattersley Interim CEO", "passage": "Economy/Currency/Stock Buyside/Downgrade", "idx": "459", "label": "0"}
+{"question": "Barclays Bonds Rise as Lender Cuts Dividends to Shore Up Capital", "passage": "Stock/Currency/Insider Selling/Sell-Off/Company Guidance", "idx": "1410", "label": "1"}
+{"question": "$AMRN You can many times find top and bottoms when shorts start rejoicing or bulls start rejoicing. Currently it is the shorts rejoicing", "passage": "Economy/Signal", "idx": "16166", "label": "0"}
+{"question": "Glencore slumps 30 percent as debt fears grow", "passage": "Corporate/Technical Analysis/New Product", "idx": "827", "label": "0"}
+{"question": "$VRTX Vertex. Monthly -lower hi/lower lo,  Long term uptrend intract so far", "passage": "Stock/Appointment/Business Outlook/Bull Position", "idx": "17098", "label": "1"}
+{"question": "GE to Sell Majority Stake in Bank BPH's Core Bank to Alior Bank", "passage": "Economy/Sales", "idx": "1475", "label": "1"}
+{"question": "$JE LOOKS like we are bouncing.  Would be nice to finish over $6 today, and make the hammer.  Nice volume from 5.77 bottom.  Fingers crossed", "passage": "Economy/Central Banks/Bankruptcy/Bear Position/Profit Warning", "idx": "15775", "label": "1"}
+{"question": "ACE Limited, which has a 17 year dividend growth streak, plans a 33% dividend hike: http://stks.co/1BUE $ACE", "passage": "Economy/Central Banks/Share Buyback/Bear Put Spread/Earnings miss", "idx": "15104", "label": "1"}
+{"question": "$AAPL I'm sure those short are holding their breath hoping for a miracle. lol", "passage": "Market/Technical Analysis/Joint Venture/Overbought", "idx": "15249", "label": "1"}
+{"question": "Intuitive Surgical $ISRG is in a great financial position, take a look https://t.co/VahhJAcBFG https://t.co/24hQTQX4ou", "passage": "Stock", "idx": "17759", "label": "1"}
+{"question": "$ISRG - ISRG Short - http://stks.co/f1vVU http://stks.co/c1qrm", "passage": "Corporate", "idx": "16708", "label": "0"}
+{"question": "METALS-Zinc surges 12 pct after Glencore cuts output, fuelling metals rally", "passage": "Stock/Insider Activity/Mutual Fund flows", "idx": "922", "label": "1"}
+{"question": "Aberdeen Asset Management Gains Foothold In China", "passage": "Economy/Price Action", "idx": "833", "label": "1"}
+{"question": "$GILD 91 now support. $IBB $BIB https://t.co/GIoOf6zbKv", "passage": "Stock/Legal", "idx": "17162", "label": "1"}
+{"question": "British American Tobacco drops and sues PwC over pollution scandal", "passage": "Economy", "idx": "248", "label": "0"}
+{"question": "Zurich Insurance Considering Offer for UK Rival RSA Insurance", "passage": "Economy/Market/Corporate Expansion/Bearish Behaviour", "idx": "614", "label": "1"}
+{"question": "London open: Taylor Wimpey and Ashtead drive markets higher, Barclays falls", "passage": "Stock/Volatility/Market Outlook/Short Selling", "idx": "241", "label": "1"}
+{"question": "$INTC & $AAPL strong, tech leads DOW higher", "passage": "Corporate/Volatility/Dividend/Earnings/Profit Warning", "idx": "18097", "label": "1"}
+{"question": "@scottrade Why is $tsla not available for shorting at this time?  Same for $w?", "passage": "Corporate/Risks/Sales/Bear Put Spread", "idx": "18932", "label": "0"}
+{"question": "Lloyds to cut 945 jobs as part of three-year restructuring strategy", "passage": "Corporate", "idx": "1023", "label": "0"}
+{"question": "BULLISH Engulfing of COCA COLA: http://stks.co/fYCo $KO", "passage": "Economy/Dividend Policy/Accounting", "idx": "15767", "label": "1"}
+{"question": "$TWTR The best scenario going forward is this stock slowly falling everyday....Which is quite probable...", "passage": "Economy/Fundamentals/Investment/52-Week High", "idx": "16483", "label": "0"}
+{"question": "$BRK.B $SPY  All time high tomorrow? 150k on the A shares, Dec 13, 2007.", "passage": "Economy/Rumors/Staff Hiring", "idx": "15783", "label": "1"}
+{"question": "Sales boost for new Morrisons chief David Potts as Tesco turnaround stalls", "passage": "Market/Dividend Policy/Bearish/Bearish Behaviour", "idx": "512", "label": "0"}
+{"question": "$ADBE technical alerts: Expansion Breakout, Gilligan's Island Sell Setup, Volume Surge, and New 52... https://t.co/LxX66tknFH", "passage": "Corporate", "idx": "18632", "label": "1"}
+{"question": "Travis Perkins Hikes Dividend 20% As Profit And Revenue Rise", "passage": "Market/Currency/Sales", "idx": "730", "label": "1"}
+{"question": "Royal Mail share price rallies amid positive broker comments", "passage": "Corporate/IPO/Business Outlook", "idx": "1611", "label": "1"}
+{"question": "$RIG whos ever pushing this is crazy, get ready for suspended dividend (turning into growth stock) blow out earnings, and major buyback, lol", "passage": "Market/Price Action/Accounting/Earnings/Earnings Beat", "idx": "16270", "label": "0"}
+{"question": "GlaxoSmithKline targets growth across units, scraps ViiV IPO", "passage": "Corporate/Coverage/Product Recall/Selling Pressure/Earnings miss", "idx": "412", "label": "1"}
+{"question": "FDA approves Shire's Vyvanse for binge-eating disorder", "passage": "Economy/Conditions/Demand Shortfall/Selling Pressure", "idx": "78", "label": "1"}
+{"question": "RBS will reportedly appoint Howard Davies as its next chairman", "passage": "Economy/Coverage/Settlement/Exisiting bankruptcy/Earnings Beat", "idx": "165", "label": "1"}
+{"question": "Credit Suisse poaches Prudential's Thiam for Asian push", "passage": "Market/Fundamentals", "idx": "264", "label": "1"}
+{"question": "Tesco share price closes higher as two more directors leave grocer", "passage": "Corporate/Coverage", "idx": "413", "label": "1"}
+{"question": "UPDATE: Barclays Expects Gain After Settling With Lehman Bros Trustee", "passage": "Economy/Buyside/", "idx": "548", "label": "1"}
+{"question": "CompaniesNew Aggreko CEO to reshape business, strip costs", "passage": "Economy/Reputation/Monetary Policy", "idx": "680", "label": "1"}
+{"question": "Copper market may get a 2003-style supply shock from Glencore closures", "passage": "Corporate", "idx": "866", "label": "0"}
+{"question": "Valeant CEO Pledges to Heed Critics After `Painful' Experience", "passage": "Corporate", "idx": "1061", "label": "0"}
+{"question": "FastJet slams EasyJet founder Stelios for going public, is 'taking legal advice' over letter about contractual ...", "passage": "Stock/Options/Proposed Merger/Selling Pressure/Earnings Beat", "idx": "1350", "label": "0"}
+{"question": "Intertek swings to Â£347 mln loss on oil's slump", "passage": "Corporate/Price Action/Price Competition", "idx": "1365", "label": "0"}
+{"question": "Tesco's Sales Pickup Isn't Enough", "passage": "Economy", "idx": "1455", "label": "0"}
+{"question": "Aviva, M&G suspend property funds as investors panic", "passage": "Economy/Market/Scoop", "idx": "1750", "label": "0"}
+{"question": "$AAPL 50DMA turned up, MACD crossover a half-a-hair away on the weekly. EOD break out likely.", "passage": "Economy/IPO", "idx": "15109", "label": "1"}
+{"question": "$AAPL Taking out the shorts here, a punishing reminder not to spear the  strongest in the herd.", "passage": "Market/Strategy/Deal/Exisiting bankruptcy", "idx": "15285", "label": "1"}
+{"question": "$BONE Earnings Stocks Poised to Pop http://stks.co/2zWE", "passage": "Stock/Financial/Monetary Policy", "idx": "15520", "label": "1"}
+{"question": "$GNRC finding support at its 10-day line so far.", "passage": "Corporate/Rumors/Sell Signal", "idx": "15633", "label": "1"}
+{"question": "$GOOG resistance turned support?  It", "passage": "Market", "idx": "15719", "label": "1"}
+{"question": "$brcm raises revenue forecast", "passage": "Corporate/Sales/Rumors/Overbought/Earnings miss", "idx": "15753", "label": "1"}
+{"question": "$GDX $GDXJ $JNUG - strong move today for the Junior Gold Miners - keep an EYE out for a gap fill -", "passage": "Corporate", "idx": "16618", "label": "1"}
+{"question": "$FB they are hitting  everything in sight.short it. but twtr", "passage": "Economy/Coverage", "idx": "16634", "label": "0"}
+{"question": "$BWLD bearish engulfing candle", "passage": "Market", "idx": "17066", "label": "0"}
+{"question": "$ENB.CA {Head&Shoulders} bullish reversal setup and breakout. Oil and Gas Pipleline stock. $USO", "passage": "Corporate/Reputation/Failed Contract Discussion", "idx": "17119", "label": "1"}
+{"question": "$SAVE long. https://t.co/yEJuS9cMlC", "passage": "Stock/Market/Stochastic/Cash Flow/Profit Warning", "idx": "17195", "label": "1"}
+{"question": "@HopeTurock yes, the expectations of a deal are somewhat priced in but we could see a nice pop if bids come in higher than expected... $YHOO", "passage": "Stock/Dividend Policy/Breakout", "idx": "17289", "label": "1"}
+{"question": "Hard to find new buyers of $TSLA at 250.  Shorts continue to pile in.", "passage": "Stock/Coverage/Market Outlook", "idx": "17591", "label": "0"}
+{"question": "Supermarket Stocks Rally as Tesco Plans to Axe Non-core UK Assets $TSCO https://t.co/BmvhcrwREA", "passage": "Economy/Coverage/?", "idx": "17866", "label": "1"}
+{"question": "long $SDLP $CPGX $TWTR $BITA $LABU $FB $TSLA $ETE $SDRL  Autocharts @ https://t.co/nxLx1ES7nY", "passage": "Market/Risks", "idx": "17962", "label": "1"}
+{"question": "Followed the levels I shared with you on $NFLX $GOOGL $TSLA calls for nice gains. Still holding $FB 110 calls. Week made in a morning.", "passage": "Stock/Sales", "idx": "18207", "label": "1"}
+{"question": "$GOOGL gets an upgrade price target $970", "passage": "Corporate/Buyside", "idx": "18684", "label": "1"}
+{"question": "$AMZN rejected that 604 to the penny. Weak open and it goes r/g within first 30 mins, could have 8-10 points in it. https://t.co/58tEAEXxpE", "passage": "Corporate/Fundamentals/Bullish', 'Corporate/Overbought/Profit Warning", "idx": "18750", "label": "0"}
